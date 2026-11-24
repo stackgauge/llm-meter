@@ -17,13 +17,13 @@ Token usage is cost, and it creeps up quietly — a longer system prompt here, a
 No install needed:
 
 ```bash
-npx @nextdna/llm-meter report
+npx @stackgauge/llm-meter report
 ```
 
 Or globally:
 
 ```bash
-npm install -g @nextdna/llm-meter
+npm install -g @stackgauge/llm-meter
 llm-meter report
 ```
 
