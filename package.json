@@ -1,5 +1,5 @@
 {
-  "name": "@nextdna/llm-meter",
+  "name": "@stackgauge/llm-meter",
   "version": "0.1.0",
   "description": "Meter LLM token usage across OpenAI, Anthropic & Gemini — record per-call usage and compare latest vs previous. Zero-dependency CLI.",
   "keywords": [
@@ -25,12 +25,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/next-dna/llm-meter.git"
+    "url": "git+https://github.com/stackgauge/llm-meter.git"
   },
   "bugs": {
-    "url": "https://github.com/next-dna/llm-meter/issues"
+    "url": "https://github.com/stackgauge/llm-meter/issues"
   },
-  "homepage": "https://github.com/next-dna/llm-meter#readme",
+  "homepage": "https://github.com/stackgauge/llm-meter#readme",
   "engines": {
     "node": ">=18.0.0"
   },

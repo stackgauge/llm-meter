@@ -3,7 +3,7 @@
 ## Development setup
 
 ```bash
-git clone https://github.com/next-dna/llm-meter.git
+git clone https://github.com/stackgauge/llm-meter.git
 cd llm-meter
 npm install
 npm run build
